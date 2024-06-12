@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(198, 224, 247);
+}
+.input-main, .center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading {
+    font-size: 3rem;
+    text-align: center;
+}
+.title, .description, .add-task, .mark {
+    padding: 8px;
+    padding-left: 15px;
+    font-size: 1.2rem;
+    border: 2px solid rgb(119, 176, 225);
+    border-radius: 10px;
+}
+.add-task, .mark {
+    padding-inline: 1rem;
+    color: rgb(33, 33, 33);
+}
+.add-task:hover {
+    background-color: rgb(119, 176, 225);
+    border: 2px solid rgba(119, 175, 225, 0.196);
+}
+
+.title-display, .description-display {
+    margin: 10px;
+    color: rgb(18, 30, 30); 
+}
+.description-display {
+    color: darkslategray;
+    padding-inline: 1rem;
+}
+.btns {
+    display: flex;
+    justify-content: space-between;
+}
+.mark:hover {
+    background-color: rgb(189, 68, 68);
+    border: 2px solid rgba(119, 175, 225, 0.196);
+    color: black;
+}
