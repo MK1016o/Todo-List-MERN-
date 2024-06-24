@@ -23,7 +23,7 @@ This is a full stack To-Do List application built using the MERN stack (MongoDB,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://https://github.com/MK1016o/Todo-List-MERN-.git
+   git clone https://github.com/MK1016o/Todo-List-MERN-.git
 
 2. **Navigate to the project directory:**
 
