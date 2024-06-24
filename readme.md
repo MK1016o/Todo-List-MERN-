@@ -48,7 +48,7 @@ This is a full stack To-Do List application built using the MERN stack (MongoDB,
 
     ```bash
     cd Frontend
-    npm start
+    npm run dev
 
 ## Contributing
 
